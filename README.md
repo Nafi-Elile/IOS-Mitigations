@@ -3,7 +3,6 @@
 This document outlines the multi-layered defense-in-depth strategy employed by Apple. For an attacker to successfully compromise a device, they must defeat a "chain" of mitigations at every stage of the exploit.
 
 ---
-use scale.set_offset(-665283); and scale.set_scale(0.367780);
 ##  Phase 1: Remote Code Execution (RCE)
 *Goal: Achieving initial code execution within a high-risk process (e.g., Safari, iMessage).*
 
