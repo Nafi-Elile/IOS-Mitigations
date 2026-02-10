@@ -1,4 +1,4 @@
-#### Apple Security Mitigations Masterlist
+# Apple Security Mitigations Masterlist
 
 This document outlines the multi-layered defense-in-depth strategy employed by Apple. For an attacker to successfully compromise a device, they must defeat a "chain" of mitigations at every stage of the exploit.
 
